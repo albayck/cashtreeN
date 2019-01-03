@@ -1,0 +1,24 @@
+romzjully>
+
+Hy teman teman, silahkan ikuti step demi stepnya ya dan teman teman harus bener bener teliti pas bagian pengambilan data dari cashtreenya di ssl capture pro, jangan pakai packet capture oke.
+
+
+Teliti ya teman teman..
+
+Langsung saja.
+
+$ pkg update
+$ pkg upgrade
+$ pkg install php
+$ pkg install nano
+$ pkg install git
+$ cd /storage/emulated/0/download/cashtree
+$ nano cashtree.php
+
+edit tokennya degan teliti lalu save
+CTRL X , Y , ENTER
+
+$ php cashtree.php
+
+
+Selamat mencoba & dukung terus channel romzjully tutorial android dengan klik subcribe aktifkan loncengnya, biar gak ketinggalan video terbaru..
